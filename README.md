@@ -1,2 +1,2 @@
 # TissuePaper_model
-gazebo model スティックのり モデル
+gazebo model ティッシュペーパー モデル
